@@ -1,5 +1,7 @@
 A list of projects that I think are cool [wigwams](https://taylor.town/pardon-2023#wigwams)
 
+Inspired by [https://github.com/surprisetalk/wigwams](https://github.com/surprisetalk/wigwams) and [https://github.com/samsquire/ideas ](https://github.com/samsquire/ideas)
+
 | Name                                                    |    Support                                        | Started |
 | ------------------------------------------------------- | ------------------------------------------------: | ------: |
 | [Dynamicland](https://dynamicland.org/)                 |    [donate](https://dynamicland.org/#donate)      |    2014 |
